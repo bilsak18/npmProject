@@ -1,0 +1,19 @@
+{
+  "name": "testpackage",
+  "version": "1.0.0",
+  "description": "My first package to be ever published on npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bilsak18/npmProject.git"
+  },
+  "author": "Bilal SAKAH",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bilsak18/npmProject/issues"
+  },
+  "homepage": "https://github.com/bilsak18/npmProject#readme"
+}
