@@ -1,6 +1,6 @@
 {
   "name": "bilsak18_first",
-  "version": "3.0.0",
+  "version": "3.1.0-beta.0",
   "description": "My first package to be ever published on npm",
   "main": "index.js",
   "scripts": {
