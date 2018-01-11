@@ -1,6 +1,6 @@
 {
-  "name": "testpackage",
-  "version": "1.0.0",
+  "name": "bilsak18_first",
+  "version": "2.0.0",
   "description": "My first package to be ever published on npm",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/bilsak18/npmProject/issues"
   },
-  "homepage": "https://github.com/bilsak18/npmProject#readme"
+  "homepage": "https://github.com/bilsak18/npmProject#readme",
+  "dependencies": {
+    "json": "^9.0.6"
+  }
 }
